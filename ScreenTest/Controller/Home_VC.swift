@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import DMSegmentedPager
 import Alamofire
 import SwiftyJSON
 import SDWebImage
