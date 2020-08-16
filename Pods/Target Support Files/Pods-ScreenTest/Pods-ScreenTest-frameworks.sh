@@ -199,10 +199,6 @@ fi
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/CarbonKit/CarbonKit.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/DMPagerView/DMPagerView.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/DMParallaxHeader/DMParallaxHeader.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/DMSegmentedControl/DMSegmentedControl.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/DMSegmentedPager/DMSegmentedPager.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/SJSegmentedScrollView/SJSegmentedScrollView.framework"
@@ -213,10 +209,6 @@ fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/CarbonKit/CarbonKit.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/DMPagerView/DMPagerView.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/DMParallaxHeader/DMParallaxHeader.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/DMSegmentedControl/DMSegmentedControl.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/DMSegmentedPager/DMSegmentedPager.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/SJSegmentedScrollView/SJSegmentedScrollView.framework"

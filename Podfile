@@ -15,10 +15,5 @@ target 'ScreenTest' do
  pod 'NVActivityIndicatorView'
  pod 'SDWebImage/WebP’
  pod 'Toast-Swift'
- #pod 'MXSegmentedPager'
- pod 'DMPagerView', '~> 1.2'
- pod 'DMParallaxHeader', '~> 2.1'
- pod 'DMSegmentedControl', '~> 1.2'
- pod 'DMSegmentedPager'
  pod 'SJSegmentedScrollView'
 end

@@ -1,10 +1,6 @@
 ${PODS_ROOT}/Target Support Files/Pods-ScreenTest/Pods-ScreenTest-frameworks.sh
 ${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
 ${BUILT_PRODUCTS_DIR}/CarbonKit/CarbonKit.framework
-${BUILT_PRODUCTS_DIR}/DMPagerView/DMPagerView.framework
-${BUILT_PRODUCTS_DIR}/DMParallaxHeader/DMParallaxHeader.framework
-${BUILT_PRODUCTS_DIR}/DMSegmentedControl/DMSegmentedControl.framework
-${BUILT_PRODUCTS_DIR}/DMSegmentedPager/DMSegmentedPager.framework
 ${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework
 ${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
 ${BUILT_PRODUCTS_DIR}/SJSegmentedScrollView/SJSegmentedScrollView.framework
